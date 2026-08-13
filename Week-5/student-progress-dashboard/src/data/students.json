@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "completedCourses": ["React Basics", "JavaScript ES6", "CSS Flexbox"],
+    "pendingCourses": ["TypeScript Fundamentals", "Node.js Basics"],
+    "progress": 60
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "completedCourses": ["HTML & CSS", "Git & GitHub"],
+    "pendingCourses": ["React Basics", "JavaScript ES6", "TypeScript Fundamentals"],
+    "progress": 40
+  },
+  {
+    "id": 3,
+    "name": "Nimra Malik",
+    "completedCourses": ["React Basics", "JavaScript ES6", "CSS Flexbox", "TypeScript Fundamentals", "Supabase Basics"],
+    "pendingCourses": ["Node.js Basics"],
+    "progress": 83
+  }
+]
